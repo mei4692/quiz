@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "High Tech Markup Language",
+            "Hyperlink Text Markup Language",
+            "Home Tool Markup Language"
+        ],
+        "correctoption": "Hyper Text Markup Language"
+    },
+    {
+        "id": 2,
+        "question": "Which technology is primarily responsible for the styling of web pages?",
+        "options": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Python"
+        ],
+        "correctoption": "CSS"
+    },
+    {
+        "id": 3,
+        "question": "What does CSS stand for?",
+        "options": [
+            "Creative Style Sheets",
+            "Cascading Style Sheets",
+            "Computer Style Sheets",
+            "Custom Style Sheets"
+        ],
+        "correctoption": "Cascading Style Sheets"
+    },
+    {
+        "id": 4,
+        "question": "Which programming language is mainly used for adding interactivity to websites?",
+        "options": [
+            "HTML",
+            "CSS",
+            "Python",
+            "JavaScript"
+        ],
+        "correctoption": "JavaScript"
+    },
+    {
+        "id": 5,
+        "question": "Which part of web development is responsible for handling data storage and retrieval?",
+        "options": [
+            "Front-end development",
+            "Back-end development",
+            "Full-stack development",
+            "Middleware development"
+        ],
+        "correctoption": "Back-end development"
+    },
+    {
+        "id": 6,
+        "question": "Which of the following is not a back-end programming language commonly used in web development?",
+        "options": [
+            "PHP",
+            "Ruby",
+            "Java",
+            "HTML"
+        ],
+        "correctoption": "HTML"
+    },
+    {
+        "id": 7,
+        "question": "Which HTML tag is used to create a hyperlink?",
+        "options": [
+            "{link}",
+            "{a}",
+            "{h1}",
+            "{p}"
+        ],
+        "correctoption": "{a}"
+    }
+]
